@@ -15,11 +15,13 @@
         1.7 Exit
         
 2. Students (Registered/ Not Registered)
+
         2.1 View details of Sport, Sport Schedule
         2.2 If new student Register to Access other Details
         2.3 Exit
         
 3. Registered Student
+
         3.1 Login to Access System
         3.2 View Detail of Coach, Self-Record & Registered Sport Schedule only
         3.3 Modify Self Record
