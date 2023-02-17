@@ -1,0 +1,2 @@
+SC0001 , Bukit Jalil Sport Centre , Lot45 Block C Pavilion 2, Pusat Bandar 2 , Bukit Jalil , 57000 , Kuala Lumpur , Malaysia
+SC0002 , Bukit Bintang Sport Centre , Lot45 Block C Pavilion 1, 163 Jalan Bukit Bintang , Bukit Bintang , 57000 , Kuala Lumpur , Malaysia

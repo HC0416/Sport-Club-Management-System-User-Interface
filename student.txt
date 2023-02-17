@@ -1,0 +1,4 @@
+ST0001 , Jack Wong , jack@gmail.com , 012222222 , No.65 Taman Orchird , Orchid Road , Seri Riang , 34151 , Pahang , Malaysia , SC0001 , SP0002 , CH0005
+ST0002 , Hadarin , hadarin@gmail.com , 0123124135 , B4-01 Apartment A , Aring , Kepong , 51231 , Kuala Lumpur , Malaysia , SC0001 , SP0001 , CH0001
+ST0003 , Desmond Ho , desmond@gmail.com , 0122213312 , No23 , Tmn Jaya , KL , 31222 , WP , Malaysia , SC0001 , SP0001 , CH0001
+ST0004 , Teh Shao Yin , shaoyin@gmail.com , 999 , 12 , 12 , kl , 51200 , kl , kl , SC0001 , SP0003 , CH0004
