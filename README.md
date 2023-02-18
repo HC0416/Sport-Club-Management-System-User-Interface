@@ -1,8 +1,8 @@
 # Sport-Club-Management-System-User-Interface
 
-## Sport Club management system is implemented with the OOP concept using Java language
+Sport Club management system is implemented with the OOP concept using Java language
 
-### Functionalies of the system
+## Functionalies of the system
 
 1. Admin
 
